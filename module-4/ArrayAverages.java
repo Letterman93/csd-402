@@ -82,7 +82,3 @@ public class ArrayAverages {
         return sum / array.length;
     }
 }
-
-
-
-
